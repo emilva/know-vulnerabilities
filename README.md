@@ -3,7 +3,7 @@ Idea: open source vulnerability database that is close to the developers.
 
 ## first version:
 github repository based
- - folder: known-vulnerabilities/
+ - folder: `known-vulnerabilities/`
  - contains a file per pacakge manager describing project and vulnerabilities
  - for mono-repos: one sub-folder for each sub project etc, same structure
 
